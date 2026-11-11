@@ -1,7 +1,7 @@
 # 🔢 Number Guessing Game
 
 ## 🌐 Live Demo
-()
+(https://rahafjadallah.github.io/Number-Guessing-Game/)
 
 ## 📷 Screenshot
 
